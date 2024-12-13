@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Understanding the Relationship Between Race, Crime, and Justice">
+    <title>Race, Crime & Justice</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            color: white;
+            padding: 0.5rem;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 1rem;
+            font-weight: bold;
+        }
+        main {
+            padding: 2rem;
+        }
+        section {
+            margin-bottom: 2rem;
+        }
+        h1, h2, h3 {
+            color: #4CAF50;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+        .data-graphic {
+            text-align: center;
+            margin: 2rem 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Race, Crime & Justice</h1>
+        <p>Exploring Structural and Organizational Perspectives</p>
+    </header>
+    <nav>
+        <a href="#introduction">Introduction</a>
+        <a href="#structural-analysis">Structural Analysis</a>
+        <a href="#data-trends">Data Trends</a>
+        <a href="#conclusion">Conclusion</a>
+    </nav>
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>This website is designed to help a general audience understand the relationship between race, crime, and justice. Through a structural lens, we will explore how societal systems and institutions shape disparities in the justice system.</p>
+        </section>
+
+        <section id="structural-analysis">
+            <h2>Structural Analysis</h2>
+            <p>Structural and organizational perspectives focus on the systems and institutions that perpetuate racial inequalities. For instance, housing policies, education systems, and economic structures can influence crime rates and interactions with the justice system.</p>
+            <ul>
+                <li><strong>Systemic Bias:</strong> Policies such as redlining and school funding inequalities create environments with higher crime risks.</li>
+                <li><strong>Policing Practices:</strong> Racial profiling and over-policing in communities of color contribute to disparities in arrests and incarceration rates.</li>
+                <li><strong>Judicial Outcomes:</strong> Sentencing disparities and access to quality legal representation affect outcomes for individuals of different racial backgrounds.</li>
+            </ul>
+        </section>
+
+        <section id="data-trends">
+            <h2>Data Trends</h2>
+            <p>Data helps illustrate the racial disparities in crime and justice. Below are key statistics:</p>
+            <div class="data-graphic">
+                <img src="https://via.placeholder.com/800x400" alt="Placeholder for data graphic" />
+                <p>Example: Chart showing incarceration rates by race (placeholder).</p>
+            </div>
+            <ul>
+                <li>Black Americans make up 13% of the U.S. population but account for 38% of those incarcerated.</li>
+                <li>Hispanic individuals are incarcerated at 1.5 times the rate of White individuals.</li>
+                <li>Police stops are disproportionately higher for Black and Latino drivers compared to White drivers.</li>
+            </ul>
+        </section>
+
+        <section id="conclusion">
+            <h2>Conclusion</h2>
+            <p>The relationship between race, crime, and justice is deeply rooted in structural inequalities. Addressing these issues requires systemic changes, including reforms in policing, judicial processes, and broader societal systems.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Race, Crime & Justice Educational Initiative</p>
+    </footer>
+</body>
+</html>
